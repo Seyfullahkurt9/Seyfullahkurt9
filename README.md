@@ -1,59 +1,133 @@
-# 💫 About Me:
-Merhaba! Ben **Seyfullah Kurt**, Bartın Üniversitesi'nden mezun, gerçek dünya ve iş problemlerine e-ticaret otomasyonları ve modern web teknolojileriyle çözümler üreten bir **Full-Stack Developer**'ım.
+<div align="center">
 
-B2B ve B2C odaklı şirketlerde görev alarak e-ticaret entegrasyonları, WooCommerce ve **ikas** altyapıları ile Next.js tabanlı modern web siteleri/uygulamaları üzerinde kapsamlı deneyim kazandım.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Seyfullah%20Kurt&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20Architect&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-- 🔭 Şu anda **ikas & WooCommerce entegrasyonları**, **B2B/B2C e-ticaret sistemleri** ve **Next.js tabanlı web projeleri** üzerine aktif çalışıyorum.
-- 🌱 Kendimi **Next.js, modern web mimarileri ve mikro servis/API entegrasyonları** alanlarında geliştirmeye devam ediyorum.
-- 💬 Bana **WooCommerce kancaları (hooks), ikas entegrasyonları, B2B/B2C mimarileri ve Next.js** hakkında soru sorabilirsiniz.
-- 📫 Bana GitHub veya [LinkedIn](https://linkedin.com/in/seyfullah-kurt) üzerinden ulaşabilirsiniz.
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9B%92+WooCommerce+%26+ikas+Integrations;%F0%9F%9A%80+Next.js+%26+Modern+Web+Apps;%F0%9F%8F%97%EF%B8%8F+B2B%2FB2C+E-Commerce+Systems" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://instagram.com/seyfix.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/seyfullah-kurt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-</p>
+<br/>
 
-# 💻 Tech Stack:
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyfullah-kurt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seyfix.exe)
+[![Profile Views](https://komarev.com/ghpvc/?username=Seyfullahkurt9&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/Seyfullahkurt9)
 
-### 🌐 Languages & Web
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🚀 Frameworks & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🗄️ Databases & Caching
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ DevTools & Management
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Seyfullahkurt9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="195" />
-  <img src="https://streak-stats.demolab.com/?user=Seyfullahkurt9&theme=dark&hide_border=false" height="195" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seyfullahkurt9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" />
-</p>
-
-# 🛠️ My Top Projects:
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=sale-coupon&theme=dark&hide_border=false" height="120" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=hizli-kasa&theme=dark&hide_border=false" height="120" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=woocommerce-barkod&theme=dark&hide_border=false" height="120" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=IbanEntegrator&theme=dark&hide_border=false" height="120" />
-</p>
+</div>
 
 ---
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Seyfullahkurt9&icon=0&color=0" alt="Seyfullahkurt9" />
-  </a>
-</p>
+
+## 🧑‍💻 Hakkımda
+
+```yaml
+name: Seyfullah Kurt
+location: Türkiye 🇹🇷
+education: Bartın Üniversitesi (Mezun)
+role: Full-Stack Developer
+focus:
+  - WooCommerce & ikas E-Commerce Integrations
+  - B2B / B2C System Architecture
+  - Next.js & Modern Web Applications
+  - Micro-service & API Integrations
+currently:
+  working_on: "ikas & WooCommerce entegrasyonları, B2B/B2C sistemleri"
+  learning: "Next.js App Router, Edge Functions, Serverless Architectures"
+  open_to: "İş birliği & freelance projelere açığım"
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,python&theme=dark" />
+
+### Frameworks & Platforms
+<img src="https://skillicons.dev/icons?i=wordpress,nextjs,react,nodejs,vercel,cloudflare,aws&theme=dark" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,redis,firebase,git,github&theme=dark" />
+
+</div>
+
+---
+
+## 🏆 Öne Çıkan Projelerim
+
+<div align="center">
+
+<a href="https://github.com/Seyfullahkurt9/sale-coupon">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=sale-coupon&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+<a href="https://github.com/Seyfullahkurt9/hizli-kasa">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=hizli-kasa&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+
+<a href="https://github.com/Seyfullahkurt9/woocommerce-barkod">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=woocommerce-barkod&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+<a href="https://github.com/Seyfullahkurt9/IbanEntegrator">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Seyfullahkurt9&repo=IbanEntegrator&theme=tokyonight&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+
+</div>
+
+<details>
+<summary>💼 Diğer Projelerimi Gör</summary>
+<br/>
+<div align="center">
+
+| Proje | Açıklama | Dil |
+|-------|----------|-----|
+| [Senka_b2b](https://github.com/Seyfullahkurt9/Senka_b2b) | B2B e-ticaret sistemi | JavaScript |
+| [maliye-app](https://github.com/Seyfullahkurt9/maliye-app) | Maliye uygulaması | JavaScript |
+| [warehouseapp](https://github.com/Seyfullahkurt9/warehouseapp) | Depo yönetim sistemi | TypeScript |
+| [sigorta](https://github.com/Seyfullahkurt9/sigorta) | Sigorta şirketi web sitesi | JavaScript |
+| [Native_app](https://github.com/Seyfullahkurt9/Native_app) | React Native mobil uygulama | TypeScript |
+| [firebase-backend-frame](https://github.com/Seyfullahkurt9/firebase-backend-frame) | Firebase backend şablonu | Node.js |
+
+</div>
+</details>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Seyfullahkurt9&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&show_icons=true&ring_color=58a6ff&icon_color=58a6ff" height="180" />
+<img src="https://streak-stats.demolab.com/?user=Seyfullahkurt9&theme=tokyonight&hide_border=true&border_radius=12&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seyfullahkurt9&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" />
+
+</div>
+
+---
+
+## 📈 Katkı Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seyfullahkurt9&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=1f6feb" width="95%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Bana Ulaşın
+
+<a href="https://linkedin.com/in/seyfullah-kurt">
+  <img src="https://img.shields.io/badge/Bir_Proje_Konuşalım-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+
+</div>
