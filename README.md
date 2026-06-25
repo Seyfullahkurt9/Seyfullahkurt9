@@ -21,21 +21,9 @@
 
 ## 🧑‍💻 Hakkımda
 
-```yaml
-name: Seyfullah Kurt
-location: Türkiye 🇹🇷
-education: Bartın Üniversitesi (Mezun)
-role: Full-Stack Developer
-focus:
-  - WooCommerce & ikas E-Commerce Integrations
-  - B2B / B2C System Architecture
-  - Next.js & Modern Web Applications
-  - Micro-service & API Integrations
-currently:
-  working_on: "ikas & WooCommerce entegrasyonları, B2B/B2C sistemleri"
-  learning: "Next.js App Router, Edge Functions, Serverless Architectures"
-  open_to: "İş birliği & freelance projelere açığım"
-```
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal Animation" />
+</div>
 
 ---
 
