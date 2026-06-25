@@ -1,8 +1,12 @@
 # 💫 About Me:
-- 🔭 Şu anda **WooCommerce & WordPress eklentileri** ve **Web Entegrasyonları** üzerine çalışıyorum.
-- 🌱 Kendimi **Next.js, Supabase ve Derin Öğrenme (PyTorch/TensorFlow)** alanlarında geliştiriyorum.
-- 💬 Bana **PHP, JavaScript, Web ve E-ticaret entegrasyonları** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşmak için: **[avdini.com](https://avdini.com)** veya GitHub üzerinden iletişime geçebilirsiniz.
+Merhaba! Ben **Seyfullah Kurt**, Bartın Üniversitesi'nde öğrenim gören ve gerçek e-ticaret/otomasyon problemlerine özel yazılımsal çözümler üretmeye odaklanmış bir **Full-Stack Developer**'ım. 
+
+Özellikle WooCommerce ekosistemi, özel ödeme entegrasyonları ve donanım-yazılım köprüleri (termal yazıcı otomasyonları) üzerine pratik ve yüksek performanslı çözümler geliştiriyorum.
+
+- 🔭 Şu anda **WooCommerce Hızlı Kasa**, **Barkod Yazdırma Eklentileri**, **IBAN Entegratörleri** ve **PDF Termal Yazıcı Dönüştürücüler** üzerine aktif projeler geliştiriyorum.
+- 🌱 Veri işlemede Python otomasyonları (stok verileri birleştirme vb.) yazıyor; **Next.js, Supabase ve Derin Öğrenme (PyTorch/TensorFlow)** teknolojileriyle modern web uygulamaları inşa ediyorum.
+- 💬 Bana **WooCommerce kancaları (hooks), e-ticaret veritabanı optimizasyonları ve donanım entegrasyonları** hakkında soru sorabilirsiniz.
+- 📫 Bana ulaşmak için: **[avdini.com](https://avdini.com)** web sitemi ziyaret edebilir veya GitHub üzerinden iletişime geçebilirsiniz.
 
 ## 🌐 Socials:
 <p align="left">
