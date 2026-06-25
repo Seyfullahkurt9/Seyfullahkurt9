@@ -1,12 +1,12 @@
 # 💫 About Me:
-Merhaba! Ben **Seyfullah Kurt**, Bartın Üniversitesi'nde öğrenim gören ve gerçek e-ticaret/otomasyon problemlerine özel yazılımsal çözümler üretmeye odaklanmış bir **Full-Stack Developer**'ım. 
+Merhaba! Ben **Seyfullah Kurt**, Bartın Üniversitesi'nden mezun, gerçek dünya ve iş problemlerine e-ticaret otomasyonları ve modern web teknolojileriyle çözümler üreten bir **Full-Stack Developer**'ım.
 
-Özellikle WooCommerce ekosistemi, özel ödeme entegrasyonları ve donanım-yazılım köprüleri (termal yazıcı otomasyonları) üzerine pratik ve yüksek performanslı çözümler geliştiriyorum.
+B2B ve B2C odaklı şirketlerde görev alarak e-ticaret entegrasyonları, WooCommerce ve **ikas** altyapıları ile Next.js tabanlı modern web siteleri/uygulamaları üzerinde kapsamlı deneyim kazandım.
 
-- 🔭 Şu anda **WooCommerce Hızlı Kasa**, **Barkod Yazdırma Eklentileri**, **IBAN Entegratörleri** ve **PDF Termal Yazıcı Dönüştürücüler** üzerine aktif projeler geliştiriyorum.
-- 🌱 Veri işlemede Python otomasyonları (stok verileri birleştirme vb.) yazıyor; **Next.js, Supabase ve Derin Öğrenme (PyTorch/TensorFlow)** teknolojileriyle modern web uygulamaları inşa ediyorum.
-- 💬 Bana **WooCommerce kancaları (hooks), e-ticaret veritabanı optimizasyonları ve donanım entegrasyonları** hakkında soru sorabilirsiniz.
-- 📫 Bana ulaşmak için: **[avdini.com](https://avdini.com)** web sitemi ziyaret edebilir veya GitHub üzerinden iletişime geçebilirsiniz.
+- 🔭 Şu anda **ikas & WooCommerce entegrasyonları**, **B2B/B2C e-ticaret sistemleri** ve **Next.js tabanlı web projeleri** üzerine aktif çalışıyorum.
+- 🌱 Kendimi **Next.js, modern web mimarileri ve mikro servis/API entegrasyonları** alanlarında geliştirmeye devam ediyorum.
+- 💬 Bana **WooCommerce kancaları (hooks), ikas entegrasyonları, B2B/B2C mimarileri ve Next.js** hakkında soru sorabilirsiniz.
+- 📫 Bana GitHub veya [LinkedIn](https://linkedin.com/in/seyfullah-kurt) üzerinden ulaşabilirsiniz.
 
 ## 🌐 Socials:
 <p align="left">
@@ -28,9 +28,6 @@ Merhaba! Ben **Seyfullah Kurt**, Bartın Üniversitesi'nde öğrenim gören ve g
 
 ### 🗄️ Databases & Caching
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🧠 AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 🛠️ DevTools & Management
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
